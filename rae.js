@@ -25,7 +25,7 @@ const msg = [
     '0x50', '0x89'
 ];
 
-const expectedMsg = ['0xF1', '0x03', '0x02', '0x01', '0x09'];
+const expectedMsg = Buffer.from(['0xF1', '0x03', '0x02', '0x01', '0x09']);
 
 const port = new SerialPort({
     path: "COM3",
@@ -48,8 +48,11 @@ port.on("error", (err) => {
 
 port.on("data", (data) => {
     console.log('received', data);
-    if (data === Buffer.from(expectedMsg)) {
-        port.write(Buffer.from(msg));
+    if (expectedMsg.compare(data) === 0) {
+        const send = Buffer.from(msg);
+        port.write(Buffer.from(send));
+
+        console.log('sended', send);
     }
 });
 
