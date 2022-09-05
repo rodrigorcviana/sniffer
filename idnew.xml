@@ -1,0 +1,608 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<raesystems>
+  <instruments>
+    <instrument id="0" name="ToxiRAE PID" model="PGM-30" brand="RAE" category="GasDetector" subcategory="Single Gas" oldid="0" />
+    <!--<instrument id="1" name="RAETag" model="RGM-2000" brand="RAE" category="GasDetector" subcategory="?"  />-->
+    <instrument id="131072" name="MeshGuard" model="FTD-2000" brand="RAE" category="GasDetector" subcategory="Single Gas" oldid="2" />
+    <instrument id="262144" name="MultiRAE" model="PGM-50/4" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="4" />
+    <instrument id="720896" name="QRAE" model="PGM-50" brand="RAE" category="GasDetector" subcategory="Single Gas" oldid="11" />
+    <instrument id="786432" name="MultiRAE" model="PGM-50/4P" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="12" />
+    <instrument id="851968" name="MultiRAE" model="PGM-50/5P" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="13" />
+    <instrument id="1310720" name="MiniRAE Lite" model="PGM-7350" brand="RAE" category="GasDetector" subcategory="Single Gas" oldid="20" />
+    <instrument id="1376256" name="MiniRAE Lite" model="PGM-7300" brand="RAE" category="GasDetector" subcategory="Single Gas" oldid="21" />
+    <instrument id="1441792" name="MiniRAE 3000" model="PGM-7320" brand="RAE" category="GasDetector" subcategory="Single Gas" oldid="22" />
+    <instrument id="1507328" name="ppbRAE 3000" model="PGM-7340" brand="RAE" category="GasDetector" subcategory="Single Gas" oldid="23" />
+    <instrument id="1572864" name="UltraRAE" model="PGM-7200" brand="RAE" category="GasDetector" subcategory="Single Gas" oldid="24" />
+    <instrument id="1638400" name="UltraRAE 3000" model="PGM-7360" brand="RAE" category="GasDetector" subcategory="Single Gas" oldid="25" />
+    <instrument id="1703936" name="MiniRAE 2000" model="PGM-7600" brand="RAE" category="GasDetector" subcategory="Single Gas" oldid="26" />
+    <instrument id="1835008" name="ppbRAE" model="PGM-7240" brand="RAE" category="GasDetector" subcategory="Single Gas" oldid="28" />
+    <instrument id="1900544" name="MultiRAE IR" model="PGM-54" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="29" />
+    <instrument id="2621440" name="VRAE" model="PGM-7800" brand="RAE" category="GasDetector" subcategory="Single Gas" oldid="40" />
+    <instrument id="2686976" name="VRAE" model="PGM-7800" brand="RAE" category="GasDetector" subcategory="Single Gas" oldid="41" />
+    <instrument id="2752512" name="VRAE" model="PGM-7840" brand="RAE" category="GasDetector" subcategory="Single Gas" oldid="42" />
+    <instrument id="2818048" name="QRAE+" model="PGM-2000" brand="RAE" category="GasDetector" subcategory="Single Gas" oldid="43" />
+    <instrument id="2883584" name="QRAE+" model="PGM-2020" brand="RAE" category="GasDetector" subcategory="Single Gas" oldid="44" />
+    <instrument id="2949120" name="QRAE+" model="PGM-56" brand="RAE" category="GasDetector" subcategory="Single Gas" oldid="45" />
+    <instrument id="3080192" name="EntryRAE" model="PGM-3000" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="47" />
+    <instrument id="3211264" name="NeutronRAE II" model="PRM-3022" brand="RAE" category="Radiation" subcategory="Neutron" oldid="49" />
+    <instrument id="3276800" name="NeutronRAE II" model="PRM-3021" brand="RAE" category="Radiation" subcategory="Neutron" oldid="50" />
+    <!--<instrument id="51" name="GCRAE 1000" model="PGM-1020"  brand="RAE" category="GasDetector" subcategory="?"  />-->
+    <!--<instrument id="59" name="PolyRAE" model=""  brand="RAE" category="GasDetector" subcategory="?"  />-->
+    <instrument id="4194304" name="ToxiRAE III" model="PGM-1700" brand="RAE" category="GasDetector" subcategory="Single Gas" oldid="64" />
+    <instrument id="1090519040 " name="ToxiRAE Pro PID" model=""   brand="RAE" category="GasDetector" subcategory="Single Gas" oldid="16640" />
+    <instrument id="4259840" name="ToxiRAE Pro PID" model="PGM-1800" brand="RAE" category="GasDetector" subcategory="Single Gas" oldid="65" />
+    <instrument id="4325376" name="QRAE-II" model="PGM-2400" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="66" />
+    <instrument id="4390912" name="ToxiRAE Pro LEL" model="PGM-1820" brand="RAE" category="GasDetector" subcategory="Single Gas" oldid="67" />
+    <instrument id="4456448" name="ToxiRAE Pro" model="PGM-1860" brand="RAE" category="GasDetector" subcategory="Single Gas" oldid="68" />
+    <instrument id="4521984" name="ToxiRAE Pro IR" model="PGM-1840" brand="RAE" category="GasDetector" subcategory="Single Gas" oldid="69" />
+    <instrument id="4587520" name="ToxiRAE LEL" model="PGM-1880" brand="RAE" category="GasDetector" subcategory="Single Gas" oldid="70" />
+    <instrument id="4653056" name="ToxiRAE Pro" model="" brand="RAE" category="GasDetector" subcategory="Single Gas" oldid="71" />
+    <instrument id="1124073472" name="ToxiRAE Pro LEL" model="PGM-1820" brand="RAE" category="GasDetector" subcategory="Single Gas" oldid="17152" />
+    <instrument id="1140850688" name="ToxiRAE Pro" model="" brand="RAE" category="GasDetector" subcategory="Single Gas" oldid="17408" />
+    <instrument id="1157627904" name="ToxiRAE Pro CO2" model="" brand="RAE" category="GasDetector" subcategory="Single Gas" oldid="17664" />
+    <instrument id="1174405120" name="ToxiRAE Pro IR" model="" brand="RAE" category="GasDetector" subcategory="Single Gas" oldid="17920" />
+    <instrument id="1191182336" name="ToxiRAE Pro LEL" model="" brand="RAE" category="GasDetector" subcategory="Single Gas" oldid="18176" />
+    <instrument id="4718592" name="GammaRAE II" model="PRM-3000" brand="RAE" category="Radiation" subcategory="Gamma" oldid="72" />
+    <instrument id="4784128" name="NeutronRAE II" model="PRM-3020" brand="RAE" category="Radiation" subcategory="Neutron" oldid="73" />
+    <instrument id="4849664" name="GammaRAE II R" model="PRM-3040" brand="RAE" category="Radiation" subcategory="Gamma" oldid="74" />
+    <instrument id="4915200" name="GammaRAE II R" model="PRM-3041" brand="RAE" category="Radiation" subcategory="Gamma" oldid="75" />
+    <!--<instrument id="76" name="RAEPort" model="PRM-4000"  brand="RAE" category="Router" subcategory="Router"  />-->
+    <instrument id="5046272" name="DoseRAE 2" model="PRM-1200" brand="RAE" category="Radiation" subcategory="?" oldid="77" />
+    <!--<instrument id="78" name="DoseRAE 2" model=""  brand="RAE" category="Radiation" subcategory="?"  />-->
+    <instrument id="5242880" name="AreaRAE Steel" model="PGM-5520" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="80" />
+    <instrument id="5308416" name="AreaRAE Steel" model="PGM-5520" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="81" />
+    <instrument id="5373952" name="AreaRAE Steel" model="PGM-2601" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="82" />
+    <!--<instrument id="83" name="SentryRAE Steel" model="PGM-5510"  brand="RAE" category="GasDetector" subcategory="?"  />
+    <instrument id="90" name="SentryRAE" model="PGM-5010"  brand="RAE" category="GasDetector" subcategory="?"  />-->
+    <instrument id="5963776" name="AreaRAE" model="PGM-5010" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="91" />
+    <instrument id="6029312" name="AreaRAE" model="PGM-5020" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="92" />
+    <instrument id="6094848" name="AreaRAE" model="PGM-5020" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="93" />
+    <instrument id="6356992" name="AreaRAE Gamma" model="PGM-5620" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="97" />
+    <instrument id="6422528" name="AreaRAE Gamma" model="PGM-5620" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="98" />
+    <instrument id="7077888" name="AreaRAE Gamma" model="PGM-5120" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="108" />
+    <instrument id="7143424" name="AreaRAE Gamma" model="PGM-5120" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="109" />
+    <!--<instrument id="111" name="AreaPort" model="FGM-5710"  brand="RAE" category="Router" subcategory="?"  />-->
+    <instrument id="8060928" name="AreaRAE IAQ" model="PGM-5210" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="123" />
+    <instrument id="8126464" name="AreaRAE IAQ" model="PGM-5220" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="124" />
+    <!--<instrument id="127" name="AreaPort" model="FGM-5720"  brand="RAE" category="GasDetector" subcategory="?"  />
+    <instrument id="128" name="SearchRAE" model="PGM-1600"  brand="RAE" category="GasDetector" subcategory="?"  />-->
+    <!--<instrument id="139" name="CDRAE" model="PGM-8000"  brand="RAE" category="GasDetector" subcategory="?"  />
+    <instrument id="140" name="CDRAE" model="PGM-8100"  brand="RAE" category="GasDetector" subcategory="?"  />-->
+    <instrument id="9437184" name="RAEGuard2 PID" model="FGM-2000" brand="RAE" category="FixedDetector" subcategory="Single Gas" oldid="144" />
+    <instrument id="9502720" name="RAEAlert LEL" model="FGM-3100" brand="RAE" category="FixedDetector" subcategory="Single Gas" oldid="145" />
+    <instrument id="9568256" name="RAEAlert NDIR" model="FGM-3200" brand="RAE" category="FixedDetector" subcategory="Single Gas" oldid="146" />
+    <instrument id="9699328" name="RAEAlert EC" model="FGM-3300" brand="RAE" category="FixedDetector" subcategory="Single Gas" oldid="148" />
+    <instrument id="9764864" name="RAEGuard LEL" model="FGM-1100" brand="RAE" category="FixedDetector" subcategory="Single Gas" oldid="149" />
+    <instrument id="9830400" name="RAEGuard NDIR" model="FGM-1200" brand="RAE" category="FixedDetector" subcategory="Single Gas" oldid="150" />
+    <instrument id="9895936" name="RAEGuard EC" model="FGM-1300" brand="RAE" category="FixedDetector" subcategory="Single Gas" oldid="151" />
+    <!--<instrument id="152" name="iSensor EC" model=""  brand="RAE" category="GasDetector" subcategory="?"  />
+    <instrument id="153" name="iSensor PID" model=""  brand="RAE" category="GasDetector" subcategory="?"  />
+    <instrument id="154" name="iSensor NDIR" model=""  brand="RAE" category="GasDetector" subcategory="?"  />
+    <instrument id="155" name="iSensor LEL" model=""  brand="RAE" category="GasDetector" subcategory="?"  />
+    <instrument id="156" name="iSensor Rad" model=""  brand="RAE" category="GasDetector" subcategory="?"  />
+    <instrument id="157" name="iSensor Dust" model=""  brand="RAE" category="GasDetector" subcategory="?"  />
+    <instrument id="158" name="iSensor Enviro" model=""  brand="RAE" category="GasDetector" subcategory="?"  />-->
+    <instrument id="10420224" name="WeatherPak" model="WeatherPak" brand="RAE" category="Weather" subcategory="NA" oldid="159" />
+    <!--<instrument id="160" name="RAEWatch" model="RPF-2000"  brand="RAE" category="GasDetector" subcategory="?"  />
+    <instrument id="161" name="RAEWatch" model="RPF-2100"  brand="RAE" category="GasDetector" subcategory="?"  />
+    <instrument id="162" name="RAEWatch" model="RPF-2200"  brand="RAE" category="GasDetector" subcategory="?"  />-->
+    <!--<instrument id="165" name="AutoRAE II LT" model="GTS-1000"  brand="RAE" category="DockStation" subcategory="?"  />
+    <instrument id="168" name="MultiRAE 2" model=""  brand="RAE" category="GasDetector" subcategory="?"  />
+    <instrument id="169" name="DigiSensor PID" model=""  brand="RAE" category="GasDetector" subcategory="?"  />-->
+    <instrument id="11534336" name="FMC-2000" model="FMC-2000" brand="RAE" category="Controller" subcategory="Controller" oldid="176" />
+    <instrument id="11599872" name="FMC-1000" model="FMC-1000" brand="RAE" category="Controller" subcategory="Controller" oldid="177" />
+    <instrument id="11665408" name="FMC-1000" model="FMC-1000" brand="RAE" category="Controller" subcategory="Controller" oldid="178" />
+    <instrument id="11730944" name="MBeacon" model="MBeacon" brand="RAE" category="Beacon" subcategory="Mesh" oldid="179" />
+    <instrument id="11796480" name="Router" model="FMC-400" brand="RAE" category="Router" subcategory="NA" oldid="180" />
+    <!--<instrument id="181" name="FMC-400" model="FMC-400"  brand="RAE" category="GasDetector" subcategory="?"  />-->
+    <!--<instrument id="192" name="WirelessRelay" model=""  brand="RAE" category="GasDetector" subcategory="?"  />
+    <instrument id="193" name="USB Dev Kit" model="USB Dev Kit"  brand="RAE" category="GasDetector" subcategory="?"  />
+    <instrument id="240" name="ChemSentry" model="ChemSentry"  brand="RAE" category="GasDetector" subcategory="?"  />-->
+    <!--<instrument id="241" name="AreaCOM" model="PBC-5000"  brand="RAE" category="GasDetector" subcategory="?"  />
+    <instrument id="244" name="APD-2000" model="APD-2000"  brand="RAE" category="GasDetector" subcategory="?"  />
+    <instrument id="245" name="ChemRAE" model="ChemRAE"  brand="RAE" category="GasDetector" subcategory="?"  />-->
+    <instrument id="16121856" name="Bioharness" model="Bioharness" brand="RAE" category="PPE" subcategory="NA" oldid="246" />
+    <!--<instrument id="247" name="DustTrak II" model="DustTrak"  brand="RAE" category="GasDetector" subcategory="?"  />
+    <instrument id="248" name="Protege" model="Protege"  brand="RAE" category="GasDetector" subcategory="?"  />-->
+    <!--<instrument id="249" name="AP4C" model="AP4C"  brand="RAE" category="GasDetector" subcategory="?"  />-->
+    <instrument id="16842752" name="AreaRAE Plus" model="PGM-6520" brand="RAE" category="Transportable" subcategory="Multiple Gas" oldid="257" />
+    <instrument id="16908288" name="AreaRAE Pro" model="PGM-6560" brand="RAE" category="Transportable" subcategory="Multiple Gas" oldid="258" />
+    <instrument id="17104896" name="RigRat Pump" model="BWRR-100P" brand="RAE" category="Transportable" subcategory="Multiple Gas" oldid="261" />
+    <instrument id="17170432" name="RigRat Diffusion" model="BWRR-100D" brand="RAE" category="Transportable" subcategory="Multiple Gas" oldid="262" />
+    <instrument id="50397184" name="MultiRAE Lite" model="PGM-6200" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="769" />
+    <instrument id="50462720" name="MultiRAE Lite" model="PGM-6200D" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="770" />
+    <instrument id="50528256" name="MultiRAE Lite" model="PGM-6208" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="771" />
+    <instrument id="50593792" name="MultiRAE Lite" model="PGM-6208D" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="772" />
+    <instrument id="50659328" name="MultiRAE" model="PGM-6220" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="773" />
+    <instrument id="50724864" name="MultiRAE" model="PGM-6228" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="774" />
+    <instrument id="50790400" name="MultiRAE Pro" model="PGM-6240" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="775" />
+    <instrument id="50855936" name="MultiRAE Pro" model="PGM-6248" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="776" />
+    <instrument id="50921472" name="MultiRAE Marine" model="PGM-6260" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="777" />
+    <instrument id="50987008" name="MultiRAE Marine" model="PGM-6268" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="778" />
+    <instrument id="51052544" name="MultiRAE Eco" model="PGM-6280" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="779" />
+    <instrument id="51118080" name="MultiRAE Eco" model="PGM-6288" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="780" />
+    <instrument id="51183616" name="MultiRAE IAQ" model="PGM-6290" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="781" />
+    <instrument id="51249152" name="MultiRAE IAQ" model="PGM-6298" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="782" />
+    <instrument id="51314688" name="MultiRAE Lite" model="PGM-6202" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="783" />
+    <instrument id="51380224" name="MultiRAE Lite" model="PGM-6202D" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="784" />
+    <instrument id="51445760" name="MultiRAE Lite" model="PGM-6206" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="785" />
+    <instrument id="51511296" name="MultiRAE Lite" model="PGM-6206D" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="786" />
+    <instrument id="51576832" name="MultiRAE" model="PGM-6222" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="787" />
+    <instrument id="51642368" name="MultiRAE" model="PGM-6226" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="788" />
+    <instrument id="51707904" name="MultiRAE Pro" model="PGM-6242" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="789" />
+    <instrument id="51773440" name="MultiRAE Pro" model="PGM-6246" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="790" />
+    <instrument id="51838976" name="MultiRAE Marine" model="PGM-6262" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="791" />
+    <instrument id="51904512" name="MultiRAE Marine" model="PGM-6266" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="792" />
+    <instrument id="51970048" name="MultiRAE Eco" model="PGM-6282" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="793" />
+    <instrument id="52035584" name="MultiRAE Eco" model="PGM-6286" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="794" />
+    <instrument id="52101120" name="MultiRAE IAQ" model="PGM-6292" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="795" />
+    <instrument id="52166656" name="MultiRAE IAQ" model="PGM-6296" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="796" />
+    <instrument id="52232192" name="MultiRAE Marine" model="PGM-6268D" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="797" />
+    <instrument id="52297728" name="MultiRAE Benzene" model="PGM-6228" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="798" />
+    <instrument id="52363264" name="MultiRAE Lite" model="PGM-6208" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="799" />
+    <instrument id="52428800" name="MultiRAE Lite" model="PGM-6208D" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="800" />
+    <instrument id="67174400" name="AutoRAE2" model="DKS-6000" brand="RAE" category="DockStation" subcategory="Controller" oldid="1025" />
+    <instrument id="69206016" name="MultiRAE Cradle" model="DKS-6001" brand="RAE" category="DockStation" subcategory="Cradle" oldid="1056" />
+    <instrument id="69271552" name="ToxiRAE Cradle" model="DKS-6002" brand="RAE" category="DockStation" subcategory="Cradle" oldid="1057" />
+    <instrument id="69337088" name="QRAE3 Cradle" model="DKS-6003" brand="RAE" category="DockStation" subcategory="Cradle" oldid="1058" />
+    <instrument id="69402624" name="MultiRAE Cradle" model="DKS-600?" brand="RAE" category="DockStation" subcategory="Cradle" oldid="1059" />
+    <instrument id="83951616" name="QRAE3" model="PGM-2500" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="1281" />
+    <instrument id="84017152" name="QRAE3" model="PGM-2510" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="1282" />
+    <instrument id="84082688" name="QRAE3" model="PGM-2520" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="1283" />
+    <instrument id="84148224" name="QRAE3" model="PGM-2530" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="1284" />
+    <instrument id="84213760" name="QRAE3" model="PGM-2500D" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="1285" />
+    <instrument id="84279296" name="QRAE3" model="PGM-2510D" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="1286" />
+    <instrument id="84344832" name="QRAE3" model="PGM-2520D" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="1287" />
+    <instrument id="84410368" name="QRAE3" model="PGM-2530D" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="1288" />
+    <instrument id="84475904" name="QRAE3" model="PGM-2560" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="1289" />
+    <instrument id="84541440" name="QRAE3" model="PGM-2560D" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="1290" />
+    <instrument id="85983232" name="MicroRAE" model="PGM-2600" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="1312" />
+    <instrument id="86048768" name="MicroRAE" model="PGM-2680" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="1313" />
+    <instrument id="86114304" name="MicroRAE" model="PGM-2681" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="1314" />
+    <instrument id="86179840" name="MicroRAE" model="PGM-2601" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="1315" />
+    <instrument id="86245376" name="MicroRAE" model="PGM-2602" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="1316" />
+    <instrument id="86310912" name="MicroRAE" model="PGM-2603" brand="RAE" category="GasDetector" subcategory="Multiple Gas" oldid="1317" />
+    <instrument id="117506048" name="BW SOLO" model="BWS" brand="BW" category="GasDetector" subcategory="Single Gas" oldid="1793" />
+    <instrument id="117571584" name="BW SOLO" model="BWS1" brand="BW" category="GasDetector" subcategory="Single Gas" oldid="1794" />
+    <instrument id="117637120" name="BW SOLO" model="BWS2" brand="BW" category="GasDetector" subcategory="Single Gas" oldid="1795" />
+    <instrument id="3254845440" name="RAELink3" model="RLM-3000" brand="RAE" category="Router" subcategory="NA" oldid="49665" />
+    <instrument id="3255828480" name="RAEPoint Host" model="RRA-2000" brand="RAE" category="Router" subcategory="NA" oldid="49680" />
+    <instrument id="3255894016" name="Router" model="RRA-2xxx" brand="RAE" category="Router" subcategory="NA" oldid="49681" />
+    <instrument id="3255959552" name="RAEPoint Switch" model="RRA-2xxx" brand="RAE" category="Router" subcategory="NA" oldid="49682" />
+    <instrument id="3256877056" name="BW Connect" model="RRA-2xxx" brand="BW" category="Router" subcategory="NA" oldid="49696" />
+    <!--<instrument id="65025" name="STC-103" model="STC-103"  brand="RAE" category="FixedDetector" subcategory="?"  />
+    <instrument id="65026" name="SP3200" model="SP-3200"  brand="RAE" category="FixedDetector" subcategory="?"  />
+    <instrument id="65027" name="FMC60" model="FMC-60"  brand="RAE" category="FixedDetector" subcategory="?"  />-->
+    <instrument id="4261675008" name="MaxXT" model="MaxXT" brand="BW" category="GasDetector" subcategory="Multiple Gas" oldid="65028" />
+    <instrument id="4261740544" name="BW Clip" model="BW Clip" brand="RAE" category="GasDetector" subcategory="Single Gas" oldid="65029" />
+    <instrument id="4261806080" name="GasAlertMicroClip" model="GasAlertMicroClip" brand="BW" category="GasDetector" subcategory="Multiple Gas" oldid="65030" />
+    <instrument id="4261871616" name="GasAlertQuattro" model="GasAlertQuattro" brand="BW" category="GasDetector" subcategory="Multiple Gas" oldid="65031" />
+    <instrument id="4261937152" name="MicroDock" model="MicroDock" brand="BW" category="DockStation" subcategory="Controller" oldid="65032" />
+    <instrument id="4261937152" name="MicroDock" model="MicroDock" brand="BW" category="DockStation" subcategory="Controller" oldid="65032" />
+    <instrument id="4262068224" name="IntelliDoX" model="IntelliDoX" brand="BW" category="DockStation" subcategory="Controller" oldid="65034" />
+    <instrument id="4262133760" name="IntelliDoX" model="IntelliDoX" brand="BW" category="DockStation" subcategory="Controller" oldid="65035" />
+    <instrument id="4262199296" name="IntelliDoX" model="IntelliDoX" brand="BW" category="DockStation" subcategory="Controller" oldid="65036" />
+    <instrument id="4262264832" name="BW Ultra" model="BW Ultra" brand="BW" category="GasDetector" subcategory="Multiple Gas" oldid="65037" />
+    <instrument id="4266328064" name="Mobile Phone" model="SC" brand="RAE" category="MobilePhone" subcategory="NA" oldid="65099" />
+    <instrument id="2955935744" name="RAEGuard 3" model="FGM-6300" brand="RAE" category="FixedDetector" subcategory="Single Gas" oldid="45104" />
+    <instrument id="2958032896" name="Touchpoint Plus" model="TPPL" brand="Honeywell" category="Controller" subcategory="NA" oldid="45136" />
+    <instrument id="8519689" name="Wingger" model="Wingger" brand="Honeywell" category="Controller" subcategory="NA" oldid="8519689" />
+    <instrument id="134283264" name="BW-Icon" model="BW-Icon"     brand="BW" category="GasDetector" subcategory="Multiple Gas" oldid="134283264" />
+    <instrument id="134348800" name="BW-Icon+" model="BW-Icon+" brand="BW" category="GasDetector" subcategory="Multiple Gas" oldid="134348800" />
+    <instrument id="134414336" name="BW-Flex4" model="BW-Flex4" brand="BW" category="GasDetector" subcategory="Multiple Gas" oldid="134414336" />
+    <instrument id="134479872" name="BW-Flex5" model="BW-Flex5" brand="BW" category="GasDetector" subcategory="Multiple Gas" oldid="134479872" />
+    <instrument id="4263510016" name="MOTOTRBO" model="MOTOTRBO" brand="Motorola Solutions" category="Portable Radio" subcategory="Portable Radio" oldid="4263510016" />
+    <instrument id="4278190081" name="VeriShield" model="VS321" brand="Honeywell" category="Hearing" subcategory="Hearing" oldid="4278190081" />
+    <instrument id="4278190082" name="VeriShield" model="VS321H" brand="Honeywell" category="Hearing" subcategory="Hearing" oldid="4278190082" />
+    <instrument id="4278190083" name="VeriShield" model="VS332i" brand="Honeywell" category="Hearing" subcategory="Hearing" oldid="4278190083" />
+    <instrument id="4278190084" name="Equivital" model="Equivital" brand="Equivital" category="PPE" subcategory="NA" oldid="4278190084" />
+
+    <!--<instrument id="65280" name="Unknown" model=""  brand="RAE" category="GasDetector" subcategory="?"  />-->
+  </instruments>
+  <sensors>
+    <sensor id="1" name="CO" oldid="1" oldsubid="0" type="Gas"/>
+    <sensor id="257" name="CO" oldid="1" oldsubid="1" type="Gas" />
+    <sensor id="2" name="H2S" oldid="2" oldsubid="0" type="Gas"/>
+    <sensor id="258" name="H2S" oldid="2" oldsubid="1" type="Gas"/>
+    <sensor id="3" name="SO2" oldid="3" oldsubid="0" type="Gas"/>
+    <sensor id="259" name="SO2" oldid="3" oldsubid="1" type="Gas"/>
+    <sensor id="4" name="NO" oldid="4" oldsubid="0" type="Gas"/>
+    <sensor id="260" name="NO" oldid="4" oldsubid="1" type="Gas"/>
+    <sensor id="5" name="NO2" oldid="5" oldsubid="0" type="Gas"/>
+    <sensor id="261" name="NO2" oldid="5" oldsubid="1" type="Gas"/>
+    <sensor id="6" name="Cl2" oldid="6" oldsubid="0"  type="Gas"/>
+    <sensor id="262" name="Cl2" oldid="6" oldsubid="1" type="Gas" />
+    <sensor id="7" name="O2" oldid="7" oldsubid="0"  type="Gas"/>
+    <sensor id="263" name="O2" oldid="7" oldsubid="1"  type="Gas"/>
+    <sensor id="8" name="VOC" oldid="8" oldsubid="0" type="Gas" />
+    <sensor id="264" name="VOC" oldid="8" oldsubid="1" type="Gas" />
+    <sensor id="9" name="LEL" oldid="9" oldsubid="0" type="Gas" />
+    <sensor id="265" name="LEL" oldid="9" oldsubid="1" type="Gas" />
+    <sensor id="521" name="LEL" oldid="9" oldsubid="2" type="Gas" />
+    <sensor id="10" name="NH3" oldid="10" oldsubid="0" type="Gas" />
+    <sensor id="266" name="NH3" oldid="10" oldsubid="1" type="Gas" />
+    <sensor id="522" name="NH3" oldid="10" oldsubid="2" type="Gas" />
+    <sensor id="11" name="PH3" oldid="11" oldsubid="0" type="Gas" />
+    <sensor id="267" name="PH3" oldid="11" oldsubid="1" type="Gas" />
+    <sensor id="523" name="PH3" oldid="11" oldsubid="2" type="Gas" />
+    <sensor id="12" name="HCN" oldid="12" oldsubid="0" type="Gas" />
+    <sensor id="268" name="HCN" oldid="12" oldsubid="1" type="Gas" />
+    <sensor id="13" name="ETO" oldid="13" oldsubid="0" type="Gas" />
+    <sensor id="269" name="ETO" oldid="13" oldsubid="1" type="Gas" />
+    <sensor id="14" name="VOL" oldid="14" oldsubid="0" type="Gas" />
+    <sensor id="270" name="VOL" oldid="14" oldsubid="1" type="Gas" />
+    <sensor id="15" name="ClO2" oldid="15" oldsubid="0" type="Gas"/>
+    <sensor id="271" name="ClO2" oldid="15" oldsubid="1" type="Gas" />
+    <sensor id="16" name="COCl2" oldid="16" oldsubid="0" type="Gas" />
+    <sensor id="272" name="COCl2" oldid="16" oldsubid="1" type="Gas"/>
+    <sensor id="17" name="HCl" oldid="17" oldsubid="0" type="Gas"/>
+    <sensor id="273" name="HCl" oldid="17" oldsubid="1" type="Gas"/>
+    <sensor id="18" name="HF" oldid="18" oldsubid="0" type="Gas"/>
+    <sensor id="274" name="HF" oldid="18" oldsubid="1" type="Gas"/>
+    <sensor id="19" name="H2" oldid="19" oldsubid="0" type="Gas"/>
+    <sensor id="275" name="H2" oldid="19" oldsubid="1" type="Gas" />
+    <sensor id="20" name="HCHO" oldid="20" oldsubid="0" type="Gas" />
+    <sensor id="276" name="HCHO" oldid="20" oldsubid="1" type="Gas" />
+    <sensor id="21" name="CH3SH" oldid="21" oldsubid="0" type="Gas" />
+    <sensor id="277" name="CH3SH" oldid="21" oldsubid="1" type="Gas" />
+    <sensor id="22" name="GAMMA" oldid="22" oldsubid="0" />
+    <sensor id="278" name="GAMMA" oldid="22" oldsubid="1" />
+    <sensor id="23" name="NEUTRON" oldid="23" oldsubid="0" />
+    <sensor id="279" name="NEUTRON" oldid="23" oldsubid="1" />
+    <sensor id="24" name="CO2" oldid="24" oldsubid="0"  type="Gas"/>
+    <sensor id="280" name="CO2" oldid="24" oldsubid="1"  type="Gas"/>
+    <sensor id="536" name="CO2" oldid="24" oldsubid="2"  type="Gas"/>
+    <sensor id="25" name="CH4" oldid="25" oldsubid="0"  type="Gas"/>
+    <sensor id="281" name="CH4" oldid="25" oldsubid="1" type="Gas"/>
+    <sensor id="537" name="CH4" oldid="25" oldsubid="2"  type="Gas"/>
+    <sensor id="793" name="CH4" oldid="25" oldsubid="3"  type="Gas"/>
+    <sensor id="1049" name="CH4" oldid="25" oldsubid="4"  type="Gas"/>
+    <sensor id="1305" name="CH4" oldid="25" oldsubid="5"  type="Gas"/>
+    <sensor id="26" name="Temp" oldid="26" oldsubid="0" />
+    <sensor id="282" name="Temp" oldid="26" oldsubid="1" />
+    <sensor id="27" name="R.H" oldid="27" oldsubid="0" />
+    <sensor id="283" name="R.H" oldid="27" oldsubid="1" />
+    <sensor id="28" name="mA" oldid="28" oldsubid="0" />
+    <sensor id="284" name="mA" oldid="28" oldsubid="1" />
+    <sensor id="29" name="V" oldid="29" oldsubid="0" />
+    <sensor id="285" name="V" oldid="29" oldsubid="1" />
+    <sensor id="30" name="IO" oldid="30" oldsubid="0" />
+    <sensor id="286" name="DIN" oldid="30" oldsubid="1" />
+    <sensor id="542" name="DO" oldid="30" oldsubid="2" />
+    <sensor id="31" name="SPEED" oldid="31" oldsubid="0" />
+    <sensor id="287" name="SPEED" oldid="31" oldsubid="1" />
+    <sensor id="32" name="DIR" oldid="32" oldsubid="0" />
+    <sensor id="288" name="DIR" oldid="32" oldsubid="1" />
+    <sensor id="33" name="PRESSURE" oldid="33" oldsubid="0" />
+    <sensor id="289" name="BAR" oldid="33" oldsubid="1" />
+    <sensor id="34" name="Motion" oldid="34" oldsubid="0" />
+    <sensor id="290" name="Motion" oldid="34" oldsubid="1" />
+    <sensor id="546" name="Accelerometer" oldid="34" oldsubid="2" />
+    <sensor id="802" name="Accelerometer.X" oldid="34" oldsubid="3" />
+    <sensor id="1058" name="Accelerometer.Y" oldid="34" oldsubid="4" />
+    <sensor id="1314" name="Accelerometer.Z" oldid="34" oldsubid="5" />
+    <sensor id="35" name="GPS" oldid="35" oldsubid="0" />
+    <sensor id="291" name="GPS" oldid="35" oldsubid="1" />
+    <sensor id="36" name="C3H3CN" oldid="36" oldsubid="0"  type="Gas"/>
+    <sensor id="292" name="C3H3CN" oldid="36" oldsubid="1"  type="Gas"/>
+    <sensor id="37" name="NOISE" oldid="37" oldsubid="0" />
+    <sensor id="293" name="NOISE" oldid="37" oldsubid="1" />
+
+    <sensor id="65280" name="***" oldid="0" oldsubid="255" />
+    <sensor id="65281" name="CO" oldid="1" oldsubid="255" type="Gas"/>
+    <sensor id="65282" name="H2S" oldid="2" oldsubid="255" type="Gas"/>
+    <sensor id="65283" name="SO2" oldid="3" oldsubid="255" type="Gas"/>
+    <sensor id="65284" name="NO" oldid="4" oldsubid="255" type="Gas" />
+    <sensor id="65285" name="NO2" oldid="5" oldsubid="255" type="Gas" />
+    <sensor id="65286" name="Cl2" oldid="6" oldsubid="255" type="Gas" />
+    <sensor id="65287" name="O2" oldid="7" oldsubid="255" type="Gas" />
+    <sensor id="65288" name="VOC" oldid="8" oldsubid="255" type="Gas" />
+    <sensor id="65289" name="LEL" oldid="9" oldsubid="255" type="Gas" />
+    <sensor id="65290" name="NH3" oldid="10" oldsubid="255" type="Gas" />
+    <sensor id="65291" name="PH3" oldid="11" oldsubid="255" type="Gas" />
+    <sensor id="65292" name="HCN" oldid="12" oldsubid="255" type="Gas" />
+    <sensor id="65293" name="ETO" oldid="13" oldsubid="255" type="Gas" />
+    <sensor id="65294" name="VOL" oldid="14" oldsubid="255" type="Gas" />
+    <sensor id="65295" name="O2" oldid="15" oldsubid="255" type="Gas" />
+    <sensor id="65296" name="ClO2" oldid="16" oldsubid="255" type="Gas" />
+    <sensor id="65297" name="CO2" oldid="17" oldsubid="255" type="Gas" />
+    <sensor id="65298" name="R.H" oldid="18" oldsubid="255" />
+    <sensor id="65299" name="Temp" oldid="19" oldsubid="255" />
+    <sensor id="65300" name="mA" oldid="20" oldsubid="255" />
+    <sensor id="65301" name="V" oldid="21" oldsubid="255" />
+    <sensor id="65302" name="DIN" oldid="22" oldsubid="255" />
+    <sensor id="65303" name="Spd" oldid="23" oldsubid="255" />
+    <sensor id="65304" name="DIR" oldid="24" oldsubid="255" />
+    <sensor id="65305" name="BAR" oldid="25" oldsubid="255" />
+    <sensor id="65306" name="NH3" oldid="26" oldsubid="255" type="Gas" />
+    <sensor id="65307" name="GAMMA" oldid="27" oldsubid="255" />
+    <sensor id="65308" name="NEUTRON" oldid="28" oldsubid="255" />
+    <sensor id="65309" name="HCL" oldid="29" oldsubid="255" type="Gas" />
+    <sensor id="65310" name="CH4" oldid="30" oldsubid="255" type="Gas" />
+    <sensor id="65311" name="Solar" oldid="31" oldsubid="255" />
+    <sensor id="65312" name="Inter" oldid="32" oldsubid="255" />
+    <sensor id="65313" name="Conf Ck" oldid="33" oldsubid="255" />
+    <sensor id="65314" name="Nerve" oldid="34" oldsubid="255" />
+    <sensor id="65315" name="Blister" oldid="35" oldsubid="255" />
+    <sensor id="65316" name="Blood" oldid="36" oldsubid="255" />
+    <sensor id="65317" name="IRRT" oldid="37" oldsubid="255" />
+    <sensor id="65318" name="NERV" oldid="38" oldsubid="255" />
+    <sensor id="65319" name="BLST" oldid="39" oldsubid="255" />
+    <sensor id="65320" name="VX" oldid="40" oldsubid="255" />
+    <sensor id="65321" name="Chem Haz" oldid="41" oldsubid="255" />
+    <sensor id="65322" name="Toxic" oldid="42" oldsubid="255" />
+    <sensor id="65323" name="Breath" oldid="43" oldsubid="255" />
+    <sensor id="65324" name="Heart" oldid="44" oldsubid="255" />
+    <sensor id="65325" name="Activity" oldid="45" oldsubid="255" />
+    <sensor id="65326" name="Posture" oldid="46" oldsubid="255" />
+    <sensor id="65327" name="Skin Temp" oldid="47" oldsubid="255" />
+    <sensor id="65328" name="Mass Conc." oldid="48" oldsubid="255" />
+    <sensor id="65329" name="HF" oldid="49" oldsubid="255" type="Gas" />
+    <sensor id="65330" name="CO" oldid="50" oldsubid="255" type="Gas" />
+    <sensor id="65331" name="H2" oldid="51" oldsubid="255" type="Gas" />
+    <sensor id="65332" name="MOS LEL" oldid="52" oldsubid="255" type="Gas" />
+    <sensor id="65333" name="Motion" oldid="53" oldsubid="255" />
+    <sensor id="65334" name="H2S" oldid="54" oldsubid="255" type="Gas" />
+    <sensor id="65335" name="DO" oldid="55" oldsubid="255" />
+    <sensor id="65336" name="CO" oldid="56" oldsubid="255" type="Gas" />
+    <sensor id="65337" name="3D" oldid="57" oldsubid="255" />
+    <sensor id="65338" name="P" oldid="58" oldsubid="255" />
+    <sensor id="65339" name="HNO" oldid="59" oldsubid="255" />
+    <sensor id="65340" name="As" oldid="60" oldsubid="255" />
+    <sensor id="65341" name="S(HD)" oldid="61" oldsubid="255" />
+    <sensor id="65342" name="CH" oldid="62" oldsubid="255" />
+    <sensor id="65344" name="C3H8" oldid="64" oldsubid="255" type="Gas" />
+    <sensor id="65345" name="CH3SH" oldid="65" oldsubid="255" type="Gas" />
+    <sensor id="65346" name="ETO" oldid="66" oldsubid="255" type="Gas" />
+    <sensor id="65347" name="ETO" oldid="67" oldsubid="255" type="Gas" />
+    <sensor id="65348" name="C2H3Cl" oldid="68" oldsubid="255" type="Gas" />
+    <sensor id="65349" name="C2H4O" oldid="69" oldsubid="255" type="Gas" />
+    <sensor id="65350" name="CH2CHCN" oldid="70" oldsubid="255" type="Gas" />
+    <sensor id="65370" name="O2" oldid="90" oldsubid="255" type="Gas" />
+    <sensor id="65371" name="HCHO" oldid="91" oldsubid="255" type="Gas" />
+    <sensor id="65372" name="EC" oldid="92" oldsubid="255" type="Gas" />
+    <sensor id="65373" name="EC" oldid="93" oldsubid="255" type="Gas" />
+    <sensor id="65392" name="Acid" oldid="112" oldsubid="255" />
+    <sensor id="65393" name="Nerve" oldid="113" oldsubid="255" />
+    <sensor id="65394" name="Vesicant" olHRdid="114" oldsubid="255" />
+    <sensor id="65395" name="Chemical" oldid="115" oldsubid="255" />
+    <sensor id="65396" name="Flammable" oldid="116" oldsubid="255" />
+    <sensor id="65397" name="Organic Acid" oldid="117" oldsubid="255" />
+    <sensor id="65398" name="TDI" oldid="118" oldsubid="255" />
+    <sensor id="65399" name="Acetonitrile" oldid="119" oldsubid="255" />
+    <sensor id="65400" name="Inorganic" oldid="120" oldsubid="255" />
+    <sensor id="65401" name="Mask Up" oldid="121" oldsubid="255" />
+    <sensor id="65402" name="Irritant" oldid="122" oldsubid="255" />
+    <sensor id="65403" name="Core Body Temp" oldid="123" oldsubid="255" />
+    <sensor id="65404" name="Spo2" oldid="124" oldsubid="255" />
+    
+    
+    <sensor id="384" name="CO" oldid="128" oldsubid="1" type="Gas" />
+    <sensor id="640" name="H2S" oldid="128" oldsubid="2" type="Gas" />
+    <sensor id="896" name="SO2" oldid="128" oldsubid="3" type="Gas" />
+    <sensor id="1152" name="NO" oldid="128" oldsubid="4" type="Gas" />
+    <sensor id="1408" name="NO2" oldid="128" oldsubid="5" type="Gas" />
+    <sensor id="1664" name="CL2" oldid="128" oldsubid="6" type="Gas" />
+    <sensor id="1920" name="O2" oldid="128" oldsubid="7" type="Gas" />
+    <sensor id="2176" name="N2" oldid="128" oldsubid="8" type="Gas" />
+    <sensor id="2688" name="NH3" oldid="128" oldsubid="10" type="Gas" />
+    <sensor id="2944" name="PH3" oldid="128" oldsubid="11" type="Gas" />
+    <sensor id="3200" name="HCN" oldid="128" oldsubid="12" type="Gas" />
+    <sensor id="3456" name="ETO" oldid="128" oldsubid="13" type="Gas" />
+    <sensor id="3712" name="VOL" oldid="128" oldsubid="14" type="Gas" />
+    <sensor id="3968" name="O2" oldid="128" oldsubid="15" type="Gas" />
+    <sensor id="4224" name="ClO2" oldid="128" oldsubid="16" type="Gas" />
+    <sensor id="6784" name="NH3" oldid="128" oldsubid="26" type="Gas" />
+    <sensor id="7552" name="HCL" oldid="128" oldsubid="29" type="Gas" />
+    <sensor id="7808" name="HCL" oldid="128" oldsubid="30" type="Gas" />
+    <sensor id="12672" name="HF" oldid="128" oldsubid="49" type="Gas" />
+    <sensor id="12928" name="CO" oldid="128" oldsubid="50" type="Gas" />
+    <sensor id="13184" name="H2" oldid="128" oldsubid="51" type="Gas" />
+    <sensor id="13952" name="H2S" oldid="128" oldsubid="54" type="Gas" />
+    <sensor id="14464" name="CO" oldid="128" oldsubid="56" type="Gas" />
+    <sensor id="17024" name="ETO" oldid="128" oldsubid="66" type="Gas" />
+    <sensor id="17280" name="ETO" oldid="128" oldsubid="67" type="Gas" />
+    <sensor id="17536" name="CO" oldid="128" oldsubid="68" type="Gas" />
+    <sensor id="17792" name="COCl2" oldid="128" oldsubid="69" type="Gas" />
+    <sensor id="18048" name="NH3" oldid="128" oldsubid="70" type="Gas" />
+    <sensor id="18304" name="CO" oldid="128" oldsubid="71" type="Gas" />
+    <sensor id="18560" name="H2S" oldid="128" oldsubid="72" type="Gas" />
+    <sensor id="18816" name="Cl2" oldid="128" oldsubid="73" type="Gas" />
+    <sensor id="19072" name="ClO2" oldid="128" oldsubid="74" type="Gas" />
+    <sensor id="19328" name="H2" oldid="128" oldsubid="75" type="Gas" />
+    <sensor id="19584" name="NO" oldid="128" oldsubid="76" type="Gas" />
+    <sensor id="19840" name="PH3" oldid="128" oldsubid="77" type="Gas" />
+    <sensor id="20096" name="SO2" oldid="128" oldsubid="78" type="Gas" />
+    <sensor id="20352" name="CH3SH" oldid="128" oldsubid="79" type="Gas" />
+    <sensor id="20608" name="O2" oldid="128" oldsubid="80" type="Gas" />
+    <sensor id="20864" name="HCHO" oldid="128" oldsubid="81" type="Gas" />
+    
+    <sensor id="136" name="VOC" oldid="136" oldsubid="0" type="Gas" />
+    <sensor id="392" name="VOC" oldid="136" oldsubid="1" type="Gas" />
+    <sensor id="904" name="VOC" oldid="136" oldsubid="3" type="Gas" />
+    <sensor id="1160" name="VOC" oldid="136" oldsubid="4" type="Gas" />
+    <sensor id="1416" name="VOC" oldid="136" oldsubid="5" type="Gas" />
+    <sensor id="1672" name="VOC" oldid="136" oldsubid="6" type="Gas" />
+    <sensor id="1928" name="VOC" oldid="136" oldsubid="7" type="Gas" />
+    <sensor id="2184" name="VOC" oldid="136" oldsubid="8" type="Gas" />
+    <sensor id="2440" name="VOC" oldid="136" oldsubid="9" type="Gas" />
+    <sensor id="2696" name="VOC" oldid="136" oldsubid="10" type="Gas" />
+    <sensor id="2952" name="VOC" oldid="136" oldsubid="11" type="Gas" />
+    <sensor id="3208" name="VOC" oldid="136" oldsubid="12" type="Gas" />
+    <sensor id="3464" name="VOC" oldid="136" oldsubid="13" type="Gas" />
+    <sensor id="3720" name="VOC" oldid="136" oldsubid="14" type="Gas" />
+    <sensor id="3976" name="VOC" oldid="136" oldsubid="15" type="Gas" />
+    
+    <sensor id="2448" name="LEL" oldid="144" oldsubid="9" type="Gas" />
+    <sensor id="2704" name="LEL" oldid="144" oldsubid="10" type="Gas" />
+    <sensor id="2960" name="LEL" oldid="144" oldsubid="11" type="Gas" />
+    <sensor id="3728" name="VOL" oldid="144" oldsubid="14" type="Gas" />
+    <sensor id="13456" name="MOS" oldid="144" oldsubid="52" type="Gas" />
+    
+    <sensor id="408" name="CO" oldid="152" oldsubid="1" type="Gas" />
+    <sensor id="664" name="C2H3Cl" oldid="152" oldsubid="2" type="Gas" />
+    <sensor id="920" name="CH3Cl" oldid="152" oldsubid="3" type="Gas" />
+    <sensor id="1176" name="i-C4H10" oldid="152" oldsubid="4" type="Gas" />
+    <sensor id="4504" name="CO2" oldid="152" oldsubid="17" type="Gas" />
+    <sensor id="7832" name="CH4" oldid="152" oldsubid="30" type="Gas" />
+    <sensor id="16536" name="C3H8" oldid="152" oldsubid="64" type="Gas" />
+    <sensor id="16792" name="CH3SH" oldid="152" oldsubid="65" type="Gas" />
+    <sensor id="17048" name="C2H2" oldid="152" oldsubid="66" type="Gas" />
+    
+    <sensor id="409" name="CO2" oldid="153" oldsubid="1" type="Gas" />
+    <sensor id="665" name="CH4" oldid="153" oldsubid="2" type="Gas" />
+    <sensor id="921" name="C3H8" oldid="153" oldsubid="3" type="Gas" />
+    <sensor id="1177" name="ETO" oldid="153" oldsubid="4" type="Gas" />
+    <sensor id="1433" name="C2H4" oldid="153" oldsubid="5" type="Gas" />
+    <sensor id="1689" name="C2H6" oldid="153" oldsubid="6" type="Gas" />
+    <sensor id="1945" name="C2H5OH" oldid="153" oldsubid="7" type="Gas" />
+    <sensor id="2201" name="C3H6" oldid="153" oldsubid="8" type="Gas" />
+    <sensor id="2457" name="C4H10" oldid="153" oldsubid="9" type="Gas" />
+    <sensor id="2713" name="C5H12" oldid="153" oldsubid="10" type="Gas" />
+    <sensor id="2969" name="C6H14" oldid="153" oldsubid="11" type="Gas" />
+    <sensor id="3225" name="CH3Br" oldid="153" oldsubid="12" type="Gas" />
+    <sensor id="3481" name="CH4" oldid="153" oldsubid="13" type="Gas" />
+    <sensor id="3737" name="CH4" oldid="153" oldsubid="14" type="Gas" />
+    <sensor id="3993" name="CH4" oldid="153" oldsubid="15" type="Gas" />
+    
+    <sensor id="410" name="CO2" oldid="154" oldsubid="1" type="Gas" />
+    <sensor id="666" name="CH4" oldid="154" oldsubid="2" type="Gas" />
+    <sensor id="922" name="C3H8" oldid="154" oldsubid="3" type="Gas" />
+    <sensor id="3482" name="CH4" oldid="154" oldsubid="13" type="Gas" />
+    
+    <sensor id="7072" name="GAMMA" oldid="160" oldsubid="27" />
+    <sensor id="7328" name="NEUTRON" oldid="160" oldsubid="28" />
+    <sensor id="7584" name="GAMMA" oldid="160" oldsubid="29" />
+    <sensor id="7840" name="GAMMA" oldid="160" oldsubid="30" />
+    
+    <sensor id="4776" name="R.H" oldid="168" oldsubid="18" />
+    <sensor id="5032" name="Temp" oldid="168" oldsubid="19" />
+    <sensor id="5288" name="mA" oldid="168" oldsubid="20" />
+    <sensor id="5544" name="V" oldid="168" oldsubid="21" />
+    <sensor id="5800" name="DIN" oldid="168" oldsubid="22" />
+    <sensor id="6056" name="SPEED" oldid="168" oldsubid="23" />
+    <sensor id="6312" name="DIR" oldid="168" oldsubid="24" />
+    <sensor id="6568" name="BAR" oldid="168" oldsubid="25" />
+    <sensor id="13736" name="MOT" oldid="168" oldsubid="53" />
+    <sensor id="14248" name="DO" oldid="168" oldsubid="55" />
+    <sensor id="14760" name="Motion" oldid="168" oldsubid="57" />
+    
+    <sensor id="448" name="CO" oldid="192" oldsubid="1" type="Gas" />
+    <sensor id="704" name="H2S" oldid="192" oldsubid="2" type="Gas" />
+    <sensor id="2496" name="LEL" oldid="192" oldsubid="9" type="Gas" />
+    <sensor id="2752" name="LEL" oldid="192" oldsubid="10" type="Gas" />
+    <sensor id="3776" name="TC" oldid="192" oldsubid="14" type="Gas" />
+    <sensor id="4800" name="R.H" oldid="192" oldsubid="18" />
+    <sensor id="5056" name="Temp" oldid="192" oldsubid="19" />
+    <sensor id="13248" name="H2" oldid="192" oldsubid="51" type="Gas"/>
+    <sensor id="33216" name="CO2" oldid="192" oldsubid="129" type="Gas" />
+    <sensor id="33472" name="CO2" oldid="192" oldsubid="130" type="Gas" />
+    <sensor id="33728" name="CH4" oldid="192" oldsubid="131" type="Gas" />
+    <sensor id="33984" name="CH4" oldid="192" oldsubid="132" type="Gas" />
+    <sensor id="34240" name="C3H8" oldid="192" oldsubid="133" type="Gas" />
+    <sensor id="34496" name="C3H8" oldid="192" oldsubid="134" type="Gas" />
+    
+    <sensor id="480" name="DUMMY1" oldid="224" oldsubid="1" />
+    <sensor id="736" name="DUMMY2" oldid="224" oldsubid="2" />
+    
+    <sensor id="8176" name="Solar" oldid="240" oldsubid="31" />
+    <sensor id="8432" name="Inter" oldid="240" oldsubid="32" />
+    <sensor id="8688" name="Conf_Ck" oldid="240" oldsubid="33" />
+    <sensor id="8944" name="Nerve" oldid="240" oldsubid="34" />
+    <sensor id="9200" name="Blister" oldid="240" oldsubid="35" />
+    <sensor id="9456" name="Blood" oldid="240" oldsubid="36" />
+    <sensor id="9712" name="IRRT" oldid="240" oldsubid="37" />
+    <sensor id="9968" name="NERV" oldid="240" oldsubid="38" />
+    <sensor id="10224" name="BLST" oldid="240" oldsubid="39" />
+    <sensor id="10480" name="VX" oldid="240" oldsubid="40" />
+    <sensor id="10736" name="Chem Haz" oldid="240" oldsubid="41" />
+    <sensor id="10992" name="Toxic" oldid="240" oldsubid="42" />
+    <sensor id="11248" name="Breath" oldid="240" oldsubid="43" />
+    <sensor id="11504" name="Heart" oldid="240" oldsubid="44" />
+    <sensor id="11760" name="Activity" oldid="240" oldsubid="45" />
+    <sensor id="12016" name="Posture" oldid="240" oldsubid="46" />
+    <sensor id="12272" name="Skin Temp" oldid="240" oldsubid="47" />
+    <sensor id="12528" name="Mass Conc" oldid="240" oldsubid="48" />
+    
+    <sensor id="12785" name="EX" oldid="241" oldsubid="49" />
+    <sensor id="13041" name="SiH4" oldid="241" oldsubid="50" type="Gas" />
+    <sensor id="13297" name="AsH3" oldid="241" oldsubid="51" type="Gas" />
+    <sensor id="13553" name="O2" oldid="241" oldsubid="52" type="Gas" />
+    <sensor id="13809" name="CI2" oldid="241" oldsubid="53" type="Gas" />
+    <sensor id="14065" name="HCl" oldid="241" oldsubid="54" type="Gas" />
+    <sensor id="14321" name="CIO2" oldid="241" oldsubid="55" type="Gas" />
+    <sensor id="14577" name="EC" oldid="241" oldsubid="56" type="Gas" />
+
+    <sensor id="506" name="DOSE INSIDE" oldid="250" oldsubid="1" type="Hearing" />
+    <sensor id="762" name="NOISE OUTSIDE" oldid="250" oldsubid="2" type="Hearing" />
+    <sensor id="1018" name="NOISE INSIDE" oldid="250" oldsubid="3" type="Hearing" />
+    <!-- only for VeriShield's calibration, not for real time reading -->
+    <sensor id="1274" name="VeriShield"  oldid="250" oldsubid="4" type="Hearing" />
+
+    <sensor id="64005" name="Subject Status"  oldid="250" oldsubid="5" type="PPE" />
+    <sensor id="64006" name="PWI"  oldid="250" oldsubid="6" type="PPE" />
+    
+    
+  </sensors>
+  <measurementgasunits>
+    <measurementgasunit id="0" name="ppm" />
+    <measurementgasunit id="1" name="%" />
+    <measurementgasunit id="2" name="ppb" />
+    <measurementgasunit id="3" name="DegC" />
+    <measurementgasunit id="4" name="mg" />
+    <measurementgasunit id="5" name="μg" />
+    <measurementgasunit id="6" name="mA" />
+    <measurementgasunit id="7" name="V" />
+    <measurementgasunit id="8" name="DegF" />
+    <measurementgasunit id="9" name="μSv/h" />
+    <measurementgasunit id="10" name="μR/h" />
+    <measurementgasunit id="11" name="cps" />
+    <measurementgasunit id="12" name="m/sec" />
+    <measurementgasunit id="13" name="Deg" />
+    <measurementgasunit id="14" name="μg/m3" />
+    <measurementgasunit id="15" name="mg/m3" />
+    <measurementgasunit id="16" name="mBar" />
+    <measurementgasunit id="17" name="W/m2" />
+    <measurementgasunit id="18" name="-" />
+    <measurementgasunit id="19" name="Bts/m" />
+    <measurementgasunit id="20" name="Bth/m" />
+    <measurementgasunit id="21" name="mSv/h" />
+    <measurementgasunit id="22" name="mR/h" />
+    <measurementgasunit id="23" name="kcps" />
+    <measurementgasunit id="24" name="Sv/h" />
+    <measurementgasunit id="25" name="R/h" />
+    <measurementgasunit id="26" name="Mcps" />
+    <measurementgasunit id="27" name="μSv" />
+    <measurementgasunit id="28" name="μR" />
+    <measurementgasunit id="29" name="mSv" />
+    <measurementgasunit id="30" name="mR" />
+    <measurementgasunit id="31" name="Sv" />
+    <measurementgasunit id="32" name="R" />
+    <measurementgasunit id="33" name="μrem" />
+    <measurementgasunit id="34" name="mrem" />
+    <measurementgasunit id="35" name="rem" />
+    <measurementgasunit id="36" name="μrem/h" />
+    <measurementgasunit id="37" name="mrem/h" />
+    <measurementgasunit id="38" name="rem/h" />
+    <measurementgasunit id="39" name="%LEL" />
+    <measurementgasunit id="40" name="%VOL" />
+    <measurementgasunit id="41" name="μGy" />
+    <measurementgasunit id="42" name="mGy" />
+    <measurementgasunit id="43" name="Gy" />
+    <measurementgasunit id="44" name="μGy/h" />
+    <measurementgasunit id="45" name="mGy/h" />
+    <measurementgasunit id="46" name="Gy/h" />
+    <measurementgasunit id="47" name="%CH4" />
+    <measurementgasunit id="48" name="μ" />
+    <measurementgasunit id="49" name="μmol/mol" />
+    <measurementgasunit id="50" name="x10-6" />
+    <measurementgasunit id="51" name="g" />
+    <measurementgasunit id="52" name="bpm" />
+    <measurementgasunit id="53" name="MPH" />
+    <measurementgasunit id="54" name="n" />
+    <measurementgasunit id="55" name="nmol/mol" />
+    <measurementgasunit id="56" name="dBA" />
+    <measurementgasunit id="57" name="rpm" />
+    <!--last-->
+  </measurementgasunits>
+</raesystems>

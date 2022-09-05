@@ -8,6 +8,16 @@ SerialPort.list().then(
 */
 
 let connected = true;
+let msgCounter = 0;
+let index = 0;
+let message = true;
+const msg = [
+    // ??,  req byte, u id,    ??,     ??
+    ['0xF1', '0x03', '0x01', '0x01', '0x0A'],
+    ['0xF1', '0x03', '0x02', '0x01', '0x09'],
+    ['0xF1', '0x03', '0x03', '0x01', '0x08'],
+    ['0xF1', '0x03', '0x04', '0x01', '0x07'],
+];
 
 const port = new SerialPort({
     path: "COM3",
@@ -23,13 +33,13 @@ port.on("error", (err) => {
     }
 });
 
-port.on("readable", () => {
+/*port.on("readable", () => {
     console.log('readable');
     console.log(port.read());
-});
- 
+});*/
+
 port.on("data", (data) => {
-    console.log(data);
+    console.log('received', data);
 });
 
 /*port.open((err) => {
@@ -41,18 +51,19 @@ port.on("data", (data) => {
 
 const keepAlive = () => {
     try {
-        console.log('ping');
+        console.log('init');
     } finally {
         setTimeout(() => {
-            console.log('pong');
             if (connected === true) {
-                const teste = Buffer.from([143, 193, 129, 129, 80]);
-                console.log(teste);
-                //const buffer = new ArrayBuffer([0x8F, 0xC1, 0x81, 0x81, 0x50]);
-                port.write(teste);
+
+                const send = Buffer.from(msg[1]);
+                console.log('sended: ', send);
+                port.write(send);
+
+
             }
             keepAlive();
-        }, 30);
+        }, 1000);
     }
 }
 
