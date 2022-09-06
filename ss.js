@@ -17,6 +17,7 @@ const msg = [
     ['0xF1', '0x03', '0x02', '0x01', '0x09'],
     ['0xF1', '0x03', '0x03', '0x01', '0x08'],
     ['0xF1', '0x03', '0x04', '0x01', '0x07'],
+    ['0xFA', '0x04', '0x02', '0x01', '0x00', '0xFF'],
 ];
 
 const port = new SerialPort({
@@ -56,7 +57,7 @@ const keepAlive = () => {
         setTimeout(() => {
             if (connected === true) {
 
-                const send = Buffer.from(msg[1]);
+                const send = Buffer.from(msg[4]);
                 console.log('sended: ', send);
                 port.write(send);
 
