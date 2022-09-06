@@ -7,10 +7,7 @@ SerialPort.list().then(
 )
 */
 
-let connected = true;
-let msgCounter = 0;
-let index = 0;
-let message = true;
+let currentResponse = 0;
 const raeLinkResponse = Buffer.from([
     '0xEC', '0x28', '0x01', '0x02',
     '0xC2', '0x01', '0x00', '0x00',
@@ -87,8 +84,12 @@ port.on("data", (data) => {
     if (expectedSubMsg.compare(data) === 0) {
         port.write(qraeResponse);
 
-        console.log('QRAE Response', qraeResponse);
+        console.log('QRAE Response', qraeResponse[currentResponse]);
         console.log('********************************************');
+
+        currentResponse += 1;
+        if (currentResponse > 1) currentResponse = 0;
+
     }
 });
 
